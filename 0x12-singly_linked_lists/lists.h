@@ -7,11 +7,11 @@
 
 /**
  * struct list_s - singly linked list
- * @str: string memory allocation
+ * @str: memory allocaation of string
  * @len: length of the string
  * @next: points to the next node
  *
- * Description - structure of singly linked list
+ * Description: structure of the singly linked list node
  */
 typedef struct list_s
 {
